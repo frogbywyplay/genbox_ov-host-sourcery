@@ -10,7 +10,7 @@ SRC_URI="mirror://sourcery/arm-2014.05-29-arm-none-linux-gnueabi-i686-pc-linux-g
 
 LICENSE="GPL"
 SLOT="0"
-KEYWORDS="~x86-host"
+KEYWORDS="x86-host"
 IUSE=""
 RESTRICT="strip nomirror"
 
